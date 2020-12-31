@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  intro-to-outcomerate: intro-to-outcomerate.html
+last_built: 2021-03-12T05:34Z
+urls:
+  reference: https://docs.ropensci.org/outcomerate/reference
+  article: https://docs.ropensci.org/outcomerate/articles
+
