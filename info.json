@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "98c74a81656c8ce746d76c54d5f914803e8f0974",
+    "author": "Rafael P. H <rtaph@users.noreply.github.com>",
+    "time": "2020-12-31 20:34:10",
+    "files": 1,
+    "merge": false,
+    "message": "Fix bug with badges"
+  },
+  "repo": "https://github.com/ropensci/outcomerate",
+  "pkg": "outcomerate"
+}
