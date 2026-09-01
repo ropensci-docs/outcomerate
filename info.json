@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8dd5ef711fd2fa9787a04ec53c0d6ae31d333b88",
+    "author": "Rafael P. H <rafael.taph@gmail.com>",
+    "time": "2026-09-01T00:40:38Z",
+    "files": 1,
+    "merge": false,
+    "message": "Pin pkgcheck to triggering commit\n"
+  },
+  "repo": "https://github.com/ropensci/outcomerate",
+  "pkg": "outcomerate",
+  "time": "2026-09-01T00:49:41Z"
+}
